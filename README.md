@@ -33,3 +33,5 @@ AI can generate a promising answer without showing whether the underlying struct
 The project also records checks and decisions in hash-chained, replayable logs, so the reasoning behind a result can be inspected later. SuperFlow is a private research and development project; the repository is not public.
 
 One application is [**T3 QGT: Covariant Softspace Generator near a Complex-RHF Stability Crossing**](https://doi.org/10.5281/zenodo.22975222), a numerical research report whose underlying model structure was identified using SuperFlow. The Zenodo record is public; access to the report is restricted and available on request.
+
+More research and working papers are available at [H. Vosteen Research](https://hakvinv.github.io/H.Vosteen-Research-/).
