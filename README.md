@@ -16,3 +16,9 @@ StudIPilot verbindet Stud.IP, Kursunterlagen, Uni-Mail, Kalender und Aufgaben ü
 Der veröffentlichte Code ist eine Entwicklungsversion und Ausgangspunkt für eigene Installationen. Die persönliche App-Verbindung und private Daten sind nicht Teil des öffentlichen Repositories.
 
 [**StudIPilot auf GitHub ansehen →**](https://github.com/hakvinv/studipilot-open-source)
+
+## SuperFlow ML
+
+SuperFlow ML ist ein privates Forschungs- und Entwicklungsprojekt für überprüfbare KI-Ergebnisse. Das System prüft vorgeschlagene Strukturen anhand festgelegter Regeln und hält Entscheidungen in nachvollziehbaren, verketteten Prüfprotokollen fest.
+
+Der Code ist privat. Ein Beispiel für die Anwendung ist der Forschungsbericht [**T3 QGT auf Zenodo**](https://doi.org/10.5281/zenodo.22975222): Die zugrunde liegende Struktur wurde mit SuperFlow identifiziert. Der Bericht ist nur auf Anfrage zugänglich.
