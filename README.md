@@ -4,6 +4,11 @@ I'm an economics student at the University of Bremen building AI systems for hig
 
 ## StudIPilot
 
+<p align="center">
+  <img src="images/studipilot-mascot.png" alt="StudIPilot mascot" width="110"><br>
+  <img src="images/studipilot-wordmark.png" alt="StudIPilot" width="320">
+</p>
+
 **AI automation for German higher education.**
 
 University life is scattered across course platforms, lecture slides, email, calendars, and deadlines. StudIPilot brings those pieces together so students can ask questions in an AI assistant instead of searching through each system separately.
@@ -15,6 +20,11 @@ StudIPilot is built with Python, FastMCP, SQLite, and Railway. Access is protect
 [**Explore StudIPilot on GitHub →**](https://github.com/hakvinv/studipilot-open-source)
 
 ## SuperFlow ML
+
+<p align="center">
+  <img src="images/superflow-mascot.png" alt="SuperFlow mascot" width="110"><br>
+  <img src="images/superflow-wordmark.png" alt="SuperFlow" width="320">
+</p>
 
 **A verification layer for AI-generated proposals.**
 
