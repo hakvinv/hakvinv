@@ -9,9 +9,9 @@ I'm an economics student at the University of Bremen building AI systems for hig
   <img src="images/studipilot-wordmark.png" alt="StudIPilot" width="320">
 </p>
 
-**AI automation for German higher education.**
+**An LLM plugin for AI automation in German higher education.**
 
-University life is scattered across course platforms, lecture slides, email, calendars, and deadlines. StudIPilot brings those pieces together so students can ask questions in an AI assistant instead of searching through each system separately.
+University life is scattered across course platforms, lecture slides, email, calendars, and deadlines. StudIPilot is an LLM plugin accessed directly inside an AI assistant, so students can ask questions in the chat instead of searching through each system separately.
 
 The project synchronizes course materials from Stud.IP, indexes documents, and makes them searchable through an MCP gateway. It combines keyword and semantic search, retrieves the relevant source pages, and gives the assistant the information it needs to cite the original material. The same gateway connects university email, calendars, and tasks, making it possible to prepare briefings and find context across different sources.
 
