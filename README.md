@@ -34,4 +34,6 @@ The project also records checks and decisions in hash-chained, replayable logs, 
 
 One application is [**T3 QGT: Covariant Softspace Generator near a Complex-RHF Stability Crossing**](https://doi.org/10.5281/zenodo.22975222), a numerical research report whose underlying model structure was identified using SuperFlow. The Zenodo record is public; access to the report is restricted and available on request.
 
+A second application is [**Hidden dependencies in Stepanov's method**](https://doi.org/10.5281/zenodo.24407364), a number-theory preprint that started from a SuperFlow entry. It shows that the linear conditions in Stepanov's polynomial method for counting points on curves over finite fields are not independent and computes their exact rank. The preprint, code, data and a Lean 4 formalization of the core lemmas are public ([repository](https://github.com/hakvinv/SProof-)).
+
 More research and working papers are available at [H. Vosteen Research](https://hakvinv.github.io/H.Vosteen-Research-/).
