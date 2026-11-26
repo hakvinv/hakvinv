@@ -34,6 +34,6 @@ The project also records checks and decisions in hash-chained, replayable logs, 
 
 One application is [**T3 QGT: Covariant Softspace Generator near a Complex-RHF Stability Crossing**](https://doi.org/10.5281/zenodo.22975222), a numerical research report whose underlying model structure was identified using SuperFlow. The Zenodo record is public; access to the report is restricted and available on request.
 
-SuperFlow is also used as a checker in a number-theory project on Stepanov's method ([part I on Zenodo](https://doi.org/10.5281/zenodo.24407364), [code and companion manuscript](https://github.com/hakvinv/SProof-)). There it confirmed two exact laws blind, returning them as the only formulas passing its gate before they were proved; what the tool did and did not do is recorded result by result in the repository.
+SuperFlow is also used as a checker in a number-theory project on Stepanov's method ([part I on Zenodo](https://doi.org/10.5281/zenodo.24407364), [code and companion manuscript](https://github.com/hakvinv/SProof-)). There it confirmed two exact laws blind, returning them as the only formulas passing its gate (the theorems themselves were proved by hand, and one law is still a conjecture in general); what the tool did and did not do is recorded result by result in the repository.
 
 More research and working papers are available at [H. Vosteen Research](https://hakvinv.github.io/H.Vosteen-Research-/).
